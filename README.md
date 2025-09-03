@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabelle+Nascimento;I'm+16+years+old;I'm+from+Brazil;Studying+computer+technician+for+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabelle+Nascimento;I'm+18+years+old;I'm+from+Brazil;Studying+computer+technician+for+internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsabelleNascimento25&bg_color=030a0d&color=7b80f9&line=40e0d0&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
